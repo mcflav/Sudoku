@@ -1,0 +1,422 @@
+﻿body {
+    background-color: #857DB1;
+}
+
+td {
+    border: 1px solid black;
+}
+
+input {
+    width: 60px;
+    border: 1px solid black;
+}
+
+h1, h2{
+    text-align: center;
+    color: gold;
+}
+
+#press{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#howTo {
+   text-align: center;
+}
+
+
+input{
+   font-size: 15px;
+   font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+    font-weight: bold;
+    border: 5px solid gold;
+    margin-left:80px;
+    margin-right: 80px;
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#sudRow10 {
+    border-left: 5px solid black;
+}
+
+#sudRow12 {
+    border-right: 5px solid black;
+}
+
+#sudRow20 {
+    border-left: 5px solid black;
+}
+
+#sudRow22 {
+    border-right: 5px solid black;
+}
+
+#sudRow30 {
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#sudRow31 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow32 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+#sudRow40 {
+    border-left: 5px solid black;
+}
+
+#sudRow42 {
+    border-right: 5px solid black;
+}
+
+#sudRow50 {
+    border-left: 5px solid black;
+}
+
+#sudRow52 {
+    border-right: 5px solid black;
+}
+
+#sudRow60 {
+    border-left: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#sudRow61 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow62 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+#sudRow70 {
+    border-left: 5px solid black;
+}
+
+#sudRow72 {
+    border-right: 5px solid black;
+}
+
+#sudRow80 {
+    border-left: 5px solid black;
+}
+
+#sudRow82 {
+    border-right: 5px solid black;
+}
+
+#sudRow90 {
+    border-left: 5px solid black;
+}
+
+#sudRow15 {
+   border-right: 5px solid black;
+}
+
+#sudRow25 {
+    border-right: 5px solid black;
+}
+
+#sudRow33 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow34 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow35 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+
+#sudRow45 {
+    border-right: 5px solid black;
+}
+
+#sudRow55 {
+    border-right: 5px solid black;
+}
+
+#sudRow63 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow64 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow65 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+#sudRow75 {
+    border-right: 5px solid black;
+}
+
+#sudRow85 {
+    border-right: 5px solid black;
+}
+
+#sudRow95 {
+    border-right: 5px solid black;
+}
+
+#sudRow18 {
+    border-right: 5px solid black;
+}
+
+#sudRow28 {
+    border-right: 5px solid black;
+}
+
+#sudRow36 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow37 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow38 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+#sudRow48 {
+    border-right: 5px solid black;
+}
+
+#sudRow58 {
+    border-right: 5px solid black;
+}
+
+#sudRow66 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow67 {
+    border-bottom: 5px solid black;
+}
+
+#sudRow68 {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+#sudRow78 {
+    border-right: 5px solid black;
+}
+
+#sudRow88 {
+    border-right: 5px solid black;
+}
+
+#sudRow98 {
+    border-right: 5px solid black;
+}
+
+#sudRow13{
+    border-left: 5px solid black;
+}
+
+#sudRow23 {
+    border-left: 5px solid black;
+}
+
+#sudRow33 {
+    border-left: 5px solid black;
+}
+
+#sudRow43 {
+    border-left: 5px solid black;
+}
+
+#sudRow53 {
+    border-left: 5px solid black;
+}
+
+#sudRow63 {
+    border-left: 5px solid black;
+}
+
+#sudRow73 {
+    border-left: 5px solid black;
+}
+
+#sudRow83 {
+    border-left: 5px solid black;
+}
+
+#sudRow93 {
+    border-left: 5px solid black;
+}
+
+#sudRow92{
+    border-right: 5px solid black;
+}
+
+#sudRow16 {
+    border-left: 5px solid black;
+}
+
+#sudRow26 {
+    border-left: 5px solid black;
+}
+
+#sudRow36 {
+    border-left: 5px solid black;
+}
+
+#sudRow46 {
+    border-left: 5px solid black;
+}
+
+#sudRow56 {
+    border-left: 5px solid black;
+}
+
+#sudRow66 {
+    border-left: 5px solid black;
+}
+
+#sudRow76 {
+    border-left: 5px solid black;
+}
+
+#sudRow86 {
+    border-left: 5px solid black;
+}
+
+#sudRow96 {
+    border-left: 5px solid black;
+}
+
+#sudRow40{
+    border-top: 5px solid black;
+}
+
+#sudRow41 {
+    border-top: 5px solid black;
+}
+
+#sudRow42 {
+    border-top: 5px solid black;
+}
+
+#sudRow43 {
+    border-top: 5px solid black;
+}
+
+#sudRow44 {
+    border-top: 5px solid black;
+}
+
+#sudRow45 {
+    border-top: 5px solid black;
+}
+
+#sudRow46 {
+    border-top: 5px solid black;
+}
+
+#sudRow47 {
+    border-top: 5px solid black;
+}
+
+#sudRow48 {
+    border-top: 5px solid black;
+}
+
+#sudRow70 {
+    border-top: 5px solid black;
+}
+
+#sudRow71 {
+    border-top: 5px solid black;
+}
+
+#sudRow72 {
+    border-top: 5px solid black;
+}
+
+#sudRow73 {
+    border-top: 5px solid black;
+}
+
+#sudRow74 {
+    border-top: 5px solid black;
+}
+
+#sudRow75 {
+    border-top: 5px solid black;
+}
+
+#sudRow76 {
+    border-top: 5px solid black;
+}
+
+#sudRow77 {
+    border-top: 5px solid black;
+}
+
+#sudRow78 {
+    border-top: 5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
